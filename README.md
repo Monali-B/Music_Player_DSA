@@ -1,4 +1,4 @@
-# music_player_data_Structures
+# Music_Player_Data_Structures
 # Overview
 A music player simulation using doubly linked lists and queues. Manage playlists, add/delete songs, play songs, shuffle, and debug cycles.
 
